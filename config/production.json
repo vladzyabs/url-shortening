@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "1sd%_sdf12LSa-fd&2?cdDScd-123",
+  "mongoUri": "mongodb+srv://vladzyaba:vladzyaba@cluster0.igbx3.mongodb.net/url-shortening?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
